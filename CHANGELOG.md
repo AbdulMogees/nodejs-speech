@@ -4,6 +4,13 @@
 
 [1]: https://www.npmjs.com/package/@google-cloud/speech?activeTab=versions
 
+## [3.7.0](https://www.github.com/googleapis/nodejs-speech/compare/v3.6.0...v3.7.0) (2020-02-29)
+
+
+### Features
+
+* export protos in src/index.ts ([7c33510](https://www.github.com/googleapis/nodejs-speech/commit/7c335100bd86fc0beba7ca00334373819caf7cbe))
+
 ## [3.6.0](https://www.github.com/googleapis/nodejs-speech/compare/v3.5.4...v3.6.0) (2020-02-04)
 
 
